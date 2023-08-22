@@ -7,6 +7,6 @@ Leverage the power of Meta's Segment Anything Model (SAM) to easily segment obje
 
 The Segment Anything Model (SAM) is a state-of-the-art model from Meta that has demonstrated remarkable capabilities in object segmentation. This repository offers a hassle-free way to test SAM on any image of your choice.
 
-![Sample Segmentation](<path_to_a_sample_segmentation_image.jpg>)
+![Sample Segmentation](<https://github.com/BlendiBylygbashi-eng/SAM-Simple-Segmentation/issues/1#issue-1860467958>)
 
-> **Sample of SAM in action. Left: Original Image, Right: Segmented Image**
+> **Example of SAM in action. Left: Original Image, Right: Segmented Image**
